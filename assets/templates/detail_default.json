@@ -1,0 +1,10 @@
+{
+  "detail": {
+    "modules": [
+      {"type": "custom", "title": "商品卖点图文", "image": "detail_selling_01.png"},
+      {"type": "related", "title": "关联推荐", "count": 6, "products": []},
+      {"type": "promo", "title": "营销海报", "image": "detail_promo_01.png", "link": ""},
+      {"type": "custom", "title": "品牌故事/售后说明", "image": "detail_brand_01.png"}
+    ]
+  }
+}
