@@ -1,0 +1,20 @@
+{
+  "homepage": {
+    "modules": [
+      {"type": "banner", "title": "店铺头图", "image": "banner_main.png", "link": ""},
+      {"type": "nav", "title": "图文导航", "items": [
+        {"label": "新品", "icon": "nav_01.png", "link": ""},
+        {"label": "热卖", "icon": "nav_02.png", "link": ""},
+        {"label": "优惠券", "icon": "nav_03.png", "link": ""},
+        {"label": "客服", "icon": "nav_04.png", "link": ""}
+      ]},
+      {"type": "carousel", "title": "轮播图", "images": ["carousel_01.png", "carousel_02.png", "carousel_03.png"], "links": ["", "", ""]},
+      {"type": "coupon", "title": "优惠券", "coupon_id": "", "title_text": ""},
+      {"type": "product_group", "title": "新品首发", "group_query": "新品", "products": []},
+      {"type": "promo", "title": "限时活动", "image": "promo_01.png", "link": ""},
+      {"type": "product_group", "title": "热卖爆款", "group_query": "热卖", "products": []},
+      {"type": "product_group", "title": "清仓专区", "group_query": "清仓", "products": []},
+      {"type": "service", "title": "在线客服", "label": "在线客服"}
+    ]
+  }
+}
